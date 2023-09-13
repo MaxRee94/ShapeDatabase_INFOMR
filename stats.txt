@@ -1,6 +1,6 @@
-mean no shapes/class: 35.47142857142857
-stdev: 24.014923758925363
+mean: 35.98550724637681
+stdev: 24.36154923211817
 max: 143
 min: 15
-number of classes: 70
-total number of shapes: 2483
+number of classes: 69
+total number of object files: 2483
