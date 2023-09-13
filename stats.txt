@@ -1,0 +1,6 @@
+mean no shapes/class: 35.47142857142857
+stdev: 24.014923758925363
+max: 143
+min: 15
+number of classes: 70
+total number of shapes: 2483
